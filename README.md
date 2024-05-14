@@ -6,7 +6,6 @@ TARANIKKA A (21223220115)
    To write a PYTHON program for socket for HTTP for web page upload and download
 
 ## Algorithm:
-
 1.Start the program.
 <BR>
 2.Get the frame size from the user
@@ -19,7 +18,6 @@ TARANIKKA A (21223220115)
 <BR>
 6.Stop the program
 <BR>
-
 ## Program: 
 
 ![image](https://github.com/aswethaashok/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/149987410/bdefc6f7-e95c-461d-ae79-5ca5ccc64ff2)
